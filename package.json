@@ -1,0 +1,23 @@
+{
+  "name": "auth-app",
+  "version": "1.0.0",
+  "description": "app with authorization",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saver2003/authorize-app-minin.git"
+  },
+  "keywords": [
+    "js",
+    "javaScript"
+  ],
+  "author": "Alexandr <saver2003@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saver2003/authorize-app-minin/issues"
+  },
+  "homepage": "https://github.com/Saver2003/authorize-app-minin#readme"
+}
